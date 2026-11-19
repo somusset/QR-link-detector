@@ -1,0 +1,7 @@
+Copyright (C) 2026 Sophie Musset
+
+QR Link Detector is an independent personal project, developed outside the creator's professional responsibilities and without institutional affiliation.
+
+The project is distributed under the GNU General Public License version 3 only (GPL-3.0-only), to the extent that copyright and licensing rights apply. See LICENSE.
+
+The application code and documentation were generated using OpenAI ChatGPT in response to human requirements, decisions, testing and feedback. AI-generated material may not independently qualify for copyright protection in every jurisdiction; this notice does not assert otherwise.
